@@ -1,0 +1,13 @@
+#Sample Results: Least to Greatest
+
+#A = [11, 6, 10, 2, 1, 3]
+#Sorted: A=[2,3,3,6,8,8]
+
+#A=[2,3,6,8,3,8]
+#Sorted: A=[2,3,3,6,8,8]
+
+#A = [6,4,8,3,9]
+#Sorted: A=[3,4,6,8,9]
+
+#Time complexity: O(n*logn)
+#Space Complexity: O(1)
